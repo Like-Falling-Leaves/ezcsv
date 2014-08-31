@@ -1,0 +1,19 @@
+{
+  "name": "ezcsv",
+  "description": "Convert from CSV, TSV to JSON easily",
+  "keywords": ["csv", "tsv", "json"],
+  "homepage": "https://github.com/like-falling-leaves/ezcsv",
+  "bugs": { "url": "https://github.com/like-falling-leaves/ezcsv/issues" },
+  "license": "MIT",
+  "author": {"name": "Like FallingLeaves", "email": "likefallingleaves@gmail.com"},
+  "main": "./index.js",
+  "maintainers": [{"name": "Like FallingLeaves", "email": "likefallingleaves@gmail.com"}],
+  "version": "0.0.1",
+  "repository": { "type": "git", "url": "git://github.com/like-falling-leaves/ezcsv.git" },
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "lazy.js": "*"
+  },
+  "devDependencies": { "mocha": "1.*" },
+  "scripts": { "test": "mocha test/" }
+}

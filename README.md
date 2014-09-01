@@ -2,6 +2,12 @@
 
 Convert between CSV and JSON types with very simple API.
 
+[![NPM info](https://nodei.co/npm/ezcsv.png?downloads=true)](https://nodei.co/npm/ezcsv.png?downloads=true)
+
+[![Travis build status](https://api.travis-ci.org/Like-Falling-Leaves/ezcsv.png?branch=master)](
+https://travis-ci.org/Like-Falling-Leaves/ezcsv)
+
+
 ## Install
 
     npm install ezcsv

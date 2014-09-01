@@ -18,6 +18,7 @@ https://travis-ci.org/Like-Falling-Leaves/ezcsv)
 This library tries to convert tables stored as CSV or TSV into an array of json objects.  Consider a table of the following format:
 
 Name|Date
+----|----
 Yorkan, Yorkie|Sun Aug 31 2014 16:07:57 GMT-0700 (PDT)
 Yorkie, Yorkan|Sun Aug 31 2014 16:08:23 GMT-0700 (PDT)
 
